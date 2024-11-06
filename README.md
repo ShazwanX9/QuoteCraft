@@ -5,11 +5,7 @@
 ## Watch the Promo Video
 
 Check out the promo video about **QuoteCraft**:
-
-<video width="100%" controls>
-  <source src="./assets/Promo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="./assets/Promo.png" alt="Promo" width="100%" />
 
 ## Features
 
